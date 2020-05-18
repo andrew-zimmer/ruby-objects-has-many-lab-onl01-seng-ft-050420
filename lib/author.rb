@@ -4,6 +4,6 @@ class Author
     @name = name 
   end 
   def post 
-    @@post
+    
   end 
 end 
